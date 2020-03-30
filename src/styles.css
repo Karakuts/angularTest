@@ -1,0 +1,9 @@
+/* Add application styles & imports to this file! */
+.myStyle {
+  width: 200px;
+}
+
+.myStyle h1 {
+  font-size: 40px;
+  font-family: Arial;
+}
