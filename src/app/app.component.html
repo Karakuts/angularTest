@@ -1,4 +1,91 @@
-<div class="myStyle">
-  <hello name="{{ name }}"></hello>
-  <p>Start editing to see some magic happen :)</p>
+<div class="container">
+    <div class="row spaced-row">
+        <div class="col-xs-12">
+            <div style="text-align: center">
+                <h2>Картка діапазонів номерів документів</h2>
+            </div>
+
+
+            <div class="row spaced-row">
+                <div class="col-xs-12" style="text-align: center">
+                    <b>Філія:</b> Філія "Пасажирська компанія" публічного акціонерного товариства "Українська залізниця"; <b>Код:</b> 864
+                </div>
+            </div>
+
+            <div class="row spaced-row">
+                <div class="col-xs-12" style="text-align: center">
+                    <b>Структурний підрозділ:</b> Пасажирське вагонне депо станції Миколаїв; <b>Код:</b> 158
+                </div>
+            </div>
+
+            <div class="row spaced-row">
+                <div class="col-xs-12" style="text-align: center">
+                    <b>Користувач:</b> Каракуц Дмитро Ігорович
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <hr style="border-top: solid 1px; border-color: #e1e4e8">
+
+    <div class="row" style="text-align: center">
+        <div class="col-xs-12">
+
+            <div class="row spaced-row">
+                <div class="col-xs-4">Номер ПН:</div>
+                <div class="col-xs-4">
+                    Мін.
+                    <input>
+                </div>
+                <div class="col-xs-4">
+                    Макс.
+                    <input>
+                </div>
+            </div>
+
+            <div class="row spaced-row">
+                <div class="col-xs-4">Номер РК:</div>
+                <div class="col-xs-4">
+                    Мін.
+                    <input>
+                </div>
+                <div class="col-xs-4">
+                    Макс.
+                    <input>
+                </div>
+
+            </div><div class="row spaced-row">
+                <div class="col-xs-4">Номер АН:</div>
+                <div class="col-xs-4">
+                    Мін.
+                    <input>
+                </div>
+                <div class="col-xs-4">
+                    Макс.
+                    <input>
+                </div>
+
+            </div><div class="row spaced-row">
+                <div class="col-xs-4">Номер РКА:</div>
+                <div class="col-xs-4">
+                    Мін.
+                    <input>
+                </div>
+                <div class="col-xs-4">
+                    Макс.
+                    <input>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <hr style="border-top: solid 1px; border-color: #e1e4e8">
+
+    <div class="row spaced-row">
+        <div class="col-xs-12" style="text-align: right">
+            <button type="button" class="btn btn-default" style="margin-right: 10px" ng-click="$ctrl.close()">Закрити</button>
+            <button type="button" class="btn btn-primary" ng-click="$ctrl.saveCard()">Підтвердити</button>
+        </div>
+    </div>
 </div>
