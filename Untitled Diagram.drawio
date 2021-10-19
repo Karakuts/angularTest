@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T20:48:09.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.5" etag="vT8o48L7GaYI6rG0GwLd" type="github"><diagram id="xhIww-_NI-qrFl9OLERa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-19T16:48:31.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="j-ID_yxcerY6qBdCKBwY" version="15.5.5" type="github">
+  <diagram id="xhIww-_NI-qrFl9OLERa" name="Page-1">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="900" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-15" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="930" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-23" value="Розрахунок тарифу" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#1A1A1A;strokeColor=#1A1A1A;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="935" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-31" value="Очистити" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#fff2cc;align=center;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1230" width="70" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-32" value="Розрахувати" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#d5e8d4;align=center;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1230" width="70" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-38" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" vertex="1" parent="1">
+          <mxGeometry x="321" y="980" width="179" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-39" value="Назва" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-38">
+          <mxGeometry width="179" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-40" value="Тариф" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-38">
+          <mxGeometry y="22.5" width="179" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-41" value="Ставка" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-38">
+          <mxGeometry y="45" width="179" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-42" value="Menu Item 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-38">
+          <mxGeometry y="67.5" width="179" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-49" value="Дніпро-Маріуполь" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#4D4D4D;strokeColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-38">
+          <mxGeometry x="80" y="2.81" width="90" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-64" value="13520" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#4D4D4D;strokeColor=#4D4D4D;fontColor=#FFFFFF;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-38">
+          <mxGeometry x="80" y="25.309999999999945" width="90" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-43" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1070" width="179" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-44" value="Menu Item 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-43">
+          <mxGeometry width="179" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-45" value="Menu Item 2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-43">
+          <mxGeometry y="22.5" width="179" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-46" value="Menu Item 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-43">
+          <mxGeometry y="45" width="179" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-47" value="Menu Item 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-43">
+          <mxGeometry y="67.5" width="179" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-56" value="1 - 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="414" y="970" width="55" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-58" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" vertex="1" parent="1">
+          <mxGeometry x="321" y="1115" width="179" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-59" value="Menu Item 1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-58">
+          <mxGeometry width="178.99999999999997" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-60" value="Menu Item 2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-58">
+          <mxGeometry y="22.5" width="178.99999999999997" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-61" value="Menu Item 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-58">
+          <mxGeometry y="45" width="178.99999999999997" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aXvCjca8XbW6OWH7DkGg-62" value="Menu Item 4" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" vertex="1" parent="aXvCjca8XbW6OWH7DkGg-58">
+          <mxGeometry y="67.5" width="178.99999999999997" height="22.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
